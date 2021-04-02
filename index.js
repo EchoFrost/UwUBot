@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
 const fs = require("fs");
-const { stringify } = require("querystring");
 const uwufy = require("uwufy");
 
 const config = JSON.parse(fs.readFileSync("./config.json"));
