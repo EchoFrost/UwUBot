@@ -1,0 +1,23 @@
+{
+  "name": "uwubot",
+  "version": "1.0.0",
+  "description": "Discord bot that uwus messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EchoFrost/UwUBot.git"
+  },
+  "author": "Brad (EchoFrost) Whitesell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EchoFrost/UwUBot/issues"
+  },
+  "homepage": "https://github.com/EchoFrost/UwUBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "uwufy": "^1.0.7"
+  }
+}
