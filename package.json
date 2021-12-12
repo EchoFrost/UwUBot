@@ -1,6 +1,6 @@
 {
   "name": "uwubot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Discord bot that uwus messages.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/EchoFrost/UwUBot#readme",
   "dependencies": {
-    "discord.js": "^12.5.2",
-    "uwufy": "^1.0.7"
+    "discord.js": "^12.5.2"
   }
 }
